@@ -13,6 +13,7 @@ import employee from "../images/employee.png"
 import fitness from "../images/fitness.png"
 import food from "../images/food.png"
 import projectOne from "../images/projectOne.jpg"
+import book from "../images/book.png"
 
 
 function Gallery() {
@@ -75,6 +76,14 @@ function Gallery() {
                         imageSrc= {projectOne}
                         githubLink= "https://github.com/ben-j-st/projectOne---bootcamp"
                         liveVersion= "https://ben-j-st.github.io/projectOne---bootcamp/index.html"
+                    />
+                </Grid>
+                <Grid item xs={12} md={6} lg={4}>
+                    <ProjectContainer 
+                        title= "Google Books API "
+                        imageSrc= {book}
+                        githubLink= "https://github.com/ben-j-st/Book-Finder"
+                        liveVersion= "https://young-badlands-09256.herokuapp.com/"
                     />
                 </Grid>
                 <Grid item xs={12}>

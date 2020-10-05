@@ -9,7 +9,7 @@ A React based profile to display newly utilized skills in working with the mater
 
 ## Links
 
-<a href="https://fast-coast-34270.herokuapp.com/">Live Github Version</a>
+<a href="https://ben-j-st.github.io/React-Profile/">Live Github Version</a>
 
 ## Table of Contents
 

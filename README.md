@@ -25,7 +25,7 @@ A React based profile to display newly utilized skills in working with the mater
 
 ## Installation
 
-Run npx create-react-app employee-directory locally and replace the src folder with this project's src.
+Clone this repo and run npm install to install all dependencies
 
 ## Usage
 
